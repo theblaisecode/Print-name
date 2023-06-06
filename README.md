@@ -7,10 +7,10 @@ Write a javascript code that prints out your name, height, and country on the sc
 
 ## Tech Stack
 
-**Client:** HTML, JavaScript
+HTML, JavaScript
 
 
 ## Authors
 
-- [@karasheeeka](https://www.github.com/karasheeeka)
+- [@theblaisecode](https://www.github.com/theblaisecode)
 
